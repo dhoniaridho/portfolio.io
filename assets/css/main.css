@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 @font-face{
   font-family: bebas neue;
   src: url("https://raw.githubusercontent.com/dhoniaridho/portfolio.com/main/assets/fonts/BebasNeue-Regular.woff")
@@ -33,6 +33,7 @@ html {
     text-shadow: 4px 4px 4px rgb(0, 23, 39);
     font-size: 3vh;
 }
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 .judul{
   color:rgb(0, 217, 255);
   text-shadow: 4px 4px 4px black;
