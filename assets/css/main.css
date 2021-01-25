@@ -1,6 +1,6 @@
 @font-face{
   font-family: bebas neue;
-  src: url(/assets/fonts/BebasNeue-Regular.woff)
+  src: url("https://raw.githubusercontent.com/dhoniaridho/portfolio.com/main/assets/fonts/BebasNeue-Regular.woff")
 }
 nav{
   z-index: 20;
